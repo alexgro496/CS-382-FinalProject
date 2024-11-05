@@ -1,0 +1,4 @@
+repository "CS-382 FinalProject@DoctorOctored@cloud"
+  path "/"
+    br "/main"
+    co "/main"
