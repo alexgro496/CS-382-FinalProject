@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: df0834f1027214a458b7224d218fe2b8
+  productGUID: ecc73c9d98e16b24d80b913b454558db
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: CS-382 FinalProject
+  productName: FinalProject
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -719,10 +719,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: f2dea583-1958-4e9f-a930-7eaa49f79bbe
+  cloudProjectId: 7bfb9d55-7a4b-46e4-9cbd-48c834265303
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: CS-382 FinalProject
+  projectName: FinalProject
   organizationId: doctoroctored
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
